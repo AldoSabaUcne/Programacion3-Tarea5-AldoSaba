@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": [
+        "C:\\Users\\ai2sa\\Downloads\\javafx-sdk-25.0.4\\lib\\**\\*.jar"
+    ],
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-25",
+            "path": "C:\\Users\\ai2sa\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\25",
+            "default": true
+        }
+    ],
+    "git.ignoreLimitWarning": true
+}

@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ControlGastos",
+            "request": "launch",
+            "mainClass": "ControlGastos",
+            "vmArgs": "--module-path \"C:\\Users\\ai2sa\\Downloads\\javafx-sdk-25.0.4\\lib\" --add-modules javafx.controls"
+        }
+    ]
+}
